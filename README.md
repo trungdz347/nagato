@@ -1,0 +1,2 @@
+# nagato
+freedom
